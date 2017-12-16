@@ -1,0 +1,13 @@
+spring:
+  jpa:
+      hibernate:
+        ddl-auto: none
+      show-sql: true
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/yt_college
+      username: root
+      password: tiaozhan14
+security:
+  basic:
+    enabled: false
