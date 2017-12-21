@@ -5,7 +5,7 @@ import com.acsm.ytcollege.entity.JobUser;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by HASEE on 2017/12/16.
+ * Created by LiYu on 2017/12/16.
  */
 public interface UserService {
 

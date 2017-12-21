@@ -3,10 +3,10 @@ package com.acsm.ytcollege.entity;
 import javax.persistence.*;
 
 /**
- * Created by HASEE on 2017/12/16.
+ * Created by LiYu on 2017/12/16.
  */
 @Entity
-@Table(name = "job_user", schema = "yt_college", catalog = "")
+@Table(name = "job_user", schema = "yt_college", catalog = "yt_college")
 public class JobUser {
     private Integer userId;
 //    private int userType;

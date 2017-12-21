@@ -17,7 +17,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * Created by HASEE on 2017/12/16.
+ * Created by LiYu on 2017/12/16.
  */
 @RestController
 @RequestMapping(value = "/user")
