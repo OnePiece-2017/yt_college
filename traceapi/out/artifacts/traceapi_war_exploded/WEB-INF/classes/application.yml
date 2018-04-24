@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: home
+server:
+  servlet:
+    context-path: /traceapi
